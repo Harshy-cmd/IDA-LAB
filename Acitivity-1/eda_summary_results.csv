@@ -1,0 +1,48 @@
+Category,Metric,Value
+Dataset Overview,Total Rows,541909
+Dataset Overview,Total Columns,8
+Dataset Overview,Unique Invoices,25900
+Dataset Overview,Unique Customers,4372
+Dataset Overview,Unique Countries,38
+Data Quality,Missing CustomerID Count,135080
+Data Quality,Missing CustomerID %,24.93%
+Data Quality,Missing Description Count,1454
+Data Quality,Duplicate Rows,5268
+Data Quality,Cancellation Records,9288
+Business Metrics,Total Revenue (GBP),10666684.54
+Business Metrics,Number of Transactions,19960
+Business Metrics,Number of Customers,4338
+Business Metrics,Number of Products,3922
+Business Metrics,Avg Transaction Value (GBP),534.40
+Business Metrics,Avg Qty per Transaction,280.0
+Business Metrics,Avg Revenue per Customer (GBP),2054.27
+Top Countries,United Kingdom Revenue,9025222.08
+Top Countries,Netherlands Revenue,285446.34
+Top Countries,EIRE Revenue,283453.96
+Top Countries,Germany Revenue,228867.14
+Top Countries,France Revenue,209715.11
+Descriptive Stats - Quantity,Mean,10.54
+Descriptive Stats - Quantity,Median,3.00
+Descriptive Stats - Quantity,Std Dev,155.52
+Descriptive Stats - Quantity,Max,80995
+Descriptive Stats - UnitPrice,Mean,3.91
+Descriptive Stats - UnitPrice,Median,2.08
+Descriptive Stats - UnitPrice,Std Dev,35.92
+Descriptive Stats - UnitPrice,Max,13541.33
+Descriptive Stats - Revenue,Mean,20.12
+Descriptive Stats - Revenue,Median,9.90
+Descriptive Stats - Revenue,Std Dev,270.36
+Descriptive Stats - Revenue,Max,168469.60
+Monthly Revenue,2010-12,823746.14
+Monthly Revenue,2011-01,691364.56
+Monthly Revenue,2011-02,523631.89
+Monthly Revenue,2011-03,717639.36
+Monthly Revenue,2011-04,537808.62
+Monthly Revenue,2011-05,770536.02
+Monthly Revenue,2011-06,761739.90
+Monthly Revenue,2011-07,719221.19
+Monthly Revenue,2011-08,759138.38
+Monthly Revenue,2011-09,1058590.17
+Monthly Revenue,2011-10,1154979.30
+Monthly Revenue,2011-11,1509496.33
+Monthly Revenue,2011-12,638792.68
